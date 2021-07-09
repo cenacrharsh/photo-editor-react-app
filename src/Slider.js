@@ -1,7 +1,7 @@
 function Slider() {
   return (
     <div className="slider-container">
-      <input type="range"></input>
+      <input type="range" className="slider"></input>
     </div>
   );
 }
