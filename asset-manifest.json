@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/photo-editor-react-app/static/css/main.0054f490.chunk.css",
+    "main.js": "/photo-editor-react-app/static/js/main.5b5a59e3.chunk.js",
+    "main.js.map": "/photo-editor-react-app/static/js/main.5b5a59e3.chunk.js.map",
+    "runtime-main.js": "/photo-editor-react-app/static/js/runtime-main.3252447c.js",
+    "runtime-main.js.map": "/photo-editor-react-app/static/js/runtime-main.3252447c.js.map",
+    "static/js/2.e4e43e48.chunk.js": "/photo-editor-react-app/static/js/2.e4e43e48.chunk.js",
+    "static/js/2.e4e43e48.chunk.js.map": "/photo-editor-react-app/static/js/2.e4e43e48.chunk.js.map",
+    "index.html": "/photo-editor-react-app/index.html",
+    "static/css/main.0054f490.chunk.css.map": "/photo-editor-react-app/static/css/main.0054f490.chunk.css.map",
+    "static/js/2.e4e43e48.chunk.js.LICENSE.txt": "/photo-editor-react-app/static/js/2.e4e43e48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3252447c.js",
+    "static/js/2.e4e43e48.chunk.js",
+    "static/css/main.0054f490.chunk.css",
+    "static/js/main.5b5a59e3.chunk.js"
+  ]
+}
