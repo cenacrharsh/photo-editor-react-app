@@ -1,5 +1,12 @@
-function SiderbarItem() {
-  return <button className="sidebar-item">SiderbarItem</button>;
+function SiderbarItem({ name, active, handleClick }) {
+  return (
+    <button
+      className={`sidebar-item ${active ? "active" : ""}`}
+      onClick={handleClick}
+    >
+      {name}
+    </button>
+  );
 }
 
 export default SiderbarItem;
